@@ -1,5 +1,5 @@
 # Spim3
-Simple android spyware that uploads all files on given paths.
+Simple Android spyware that uploads all files from user selected paths.
 
 ## Screenshot
 <img src="https://github.com/7wp81x/Spim3/blob/main/IMG_20240717_234404.jpg">
