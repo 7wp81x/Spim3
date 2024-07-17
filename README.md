@@ -2,7 +2,7 @@
 Simple android spyware that uploads all files on given paths.
 
 ## Screenshot
-<img src="https://github.com/7wp81x/Spim3/blob/main/InShot_20240717_230246246.jpg">
+<img src="https://github.com/7wp81x/Spim3/blob/main/IMG_20240717_234404.jpg">
 <br>
 
 ## Features
